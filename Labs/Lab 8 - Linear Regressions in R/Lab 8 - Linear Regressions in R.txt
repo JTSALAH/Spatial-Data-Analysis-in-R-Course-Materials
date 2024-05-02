@@ -1,0 +1,1 @@
+Run a linear model on a dataset of your interest! Choose the model which makes the most sense for the dataset, and run an AIC to determine the best model. Submit a knit PDF with your model, and how you would interpret the results.

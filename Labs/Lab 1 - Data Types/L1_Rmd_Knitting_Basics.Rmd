@@ -1,0 +1,16 @@
+---
+title: "Rmd Knitting Basics"
+output: html_document
+date: "2024-02-12"
+---
+
+Instructions
+
+1. Bring your code from the last two exercises into RMarkdown
+2. Organize your sections with headers #
+3. Knit the Rmd as a PDF (install tidy_tex if needed)
+4. Submit PDF to Moonami!
+
+```{r}
+
+```

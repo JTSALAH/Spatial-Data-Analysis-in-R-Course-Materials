@@ -1,0 +1,11 @@
+1) Create a ggplot or tmap with both a point and polygon layer of your interest, and include:
+
+    Title, x-label, y-label
+
+    Custom color scheme
+
+    N Arrow + Scale Bar
+
+2) Utilize what you know about reading documentation to plot a raster of your choice with rasterVis.
+
+Submit your two maps for this lab!

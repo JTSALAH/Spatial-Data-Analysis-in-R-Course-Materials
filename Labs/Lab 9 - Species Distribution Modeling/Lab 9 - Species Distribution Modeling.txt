@@ -1,0 +1,24 @@
+Run a MaxEnt species distribution model on a species of your choosing! Utilize the lecture slides as a reference for how to conduct this analysis, and feel free to use some of the datasets below. A MaxEnt SDM can be broken down into a few general steps:
+
+1) Read in folder of bioclimatic variables (rasters)
+
+2) Create a raster stack from bioclimatic variables (rasters)
+
+3) Prepare occurrence points LONG/LAT for dismo input
+
+4) Use ENMeval package to determine best model feature combination & beta multiplier.
+
+5) Run MaxEnt model with dismo::maxent(), and make sure to include ENMeval settings!
+
+6) Mask your raster stack to the study area that you want to predict the species distribution onto.
+
+7) Utilize dismo::predict() to predict the species distribution in your study area.
+
+8) PLOT!
+
+
+WorldClim: https://worldclim.org/
+
+EDDMapS: https://www.eddmaps.org/
+
+GBIF: https://www.gbif.org/
